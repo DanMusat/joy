@@ -1,0 +1,2 @@
+# joy
+static website - joypartyplace
